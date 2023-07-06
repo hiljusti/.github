@@ -1,4 +1,6 @@
-You can now find my projects at https://github.com/booniepepper
+You can now find me and my projects here:
+
+* https://github.com/booniepepper
 
 ---
 
