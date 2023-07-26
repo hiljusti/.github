@@ -1,8 +1,6 @@
-You can now find me and my projects here:
+Username has changed!
 
-* https://github.com/booniepepper
-
----
+# I am now "[booniepepper](https://github.com/booniepepper)"
 
 Hi, I'm Justin "J.R." Hill. I used to go by "hiljusti" here and in some
 other places. I reserved the name on github as an organization to prevent any
